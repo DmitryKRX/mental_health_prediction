@@ -1,9 +1,8 @@
-# Определение депрессии у пациентов на основании клинических данных
-
 <a href="https://colab.research.google.com/drive/1Xaqmymh-_KAgMDQYXCUMvsDWGCpP4iQz">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> 
 
+# Определение депрессии у пациентов на основании клинических данных
 
 Данная тема и набор данных взяты с Kaggle: 
 <a href="https://www.kaggle.com/competitions/playground-series-s4e11/">
